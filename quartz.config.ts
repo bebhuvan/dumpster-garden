@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     description: "A personal digital garden where I share interesting finds from around the web and my own thoughts.",
     defaultLanguage: 'en',
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "dumpster-garden.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
