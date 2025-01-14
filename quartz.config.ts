@@ -1,25 +1,23 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4.0 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🗑️🔥From the dumpster fire ",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
+    description: "A personal digital garden where I share interesting finds from around the web and my own thoughts.",
+    defaultLanguage: 'en',
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
+    displayHeader: false,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -30,26 +28,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#ffffff",      // Pure white background
+          lightgray: "#E6DCCC",  // Warm gray
+          gray: "#93836C",       // Dusty brown
+          darkgray: "#544B3D",   // Dark earthy tone
+          dark: "#2C2824",       // Almost black with warmth
+          secondary: "#FF6B35",  // Warm orange (fire)
+          tertiary: "#666666",   // Industrial gray
+          highlight: "rgba(255, 107, 53, 0.15)", // Light orange highlight
+          textHighlight: "#FFE1D566", // Warm highlight
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#232020",      // Dark warm background
+          lightgray: "#423D3D",  // Dark warm gray
+          gray: "#767676",       // Industrial metal gray
+          darkgray: "#B4A89D",   // Warm light gray
+          dark: "#E8E3DD",       // Warm white
+          secondary: "#FF914D",  // Bright orange (fire)
+          tertiary: "#9C9C9C",   // Steel gray
+          highlight: "rgba(255, 145, 77, 0.15)", // Dark orange highlight
+          textHighlight: "#FFB86C44", // Warm highlight
         },
       },
     },
@@ -72,13 +70,19 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Latex({ renderEngine: "katex" })
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
-      Plugin.ContentPage(),
+      Plugin.ContentPage({
+        pageLayout: {
+          showDate: false,
+          showDescription: false,
+          showReadingTime: false
+        }
+      }),
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
@@ -87,9 +91,9 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.NotFoundPage(),
-    ],
-  },
+      Plugin.NotFoundPage()
+    ]
+  }
 }
 
 export default config
