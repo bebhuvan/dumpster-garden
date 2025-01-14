@@ -1,5 +1,6 @@
 ---
 title: The Landfill
+date: 2024-01-14
 tags:
   - essays
   - deep-dives
