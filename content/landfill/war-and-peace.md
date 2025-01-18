@@ -79,7 +79,7 @@ This scene is my favorite. The rich Count Bezukhov is on the death bed and is ex
 > ‘I do know the will was made, but I also know that it is invalid. You seem to take me for a complete fool, my dear cousin,’ said the princess, with the air of a woman who has come out with something clever and scathing.
 > 
 > ‘My dear princess, Katerina Semyonovna!’ Prince Vasily was losing patience. ‘I haven’t come here just to annoy you. I’m talking to you as a relative, a good, kind, true relative, about your own interests. I am telling you for the umpteenth time that if that letter to the Emperor and the will made out in Pierre’s favour are still among the count’s papers, neither you, my dear girl, nor your sisters are heiresses. If you don’t believe me, you must believe other people who know about these things. I’ve just been talking to Dmitry Onufrich’ (the family solicitor) ‘and he says the same thing.’
-> -
+> 
 > ‘I know your heart,’ repeated the prince. ‘I value your friendship, and I would like you to think the same of me. So, don’t upset yourself and let’s talk sensibly together while there is still time, whether it’s a whole day or just an hour. Tell me everything you know about that will. The most important thing is – where is it? You must know. We’ll take it to the count and show it to him. He’s probably forgotten all about it, and he’ll want it destroyed. Please understand that my sole desire is to carry out his wishes religiously. That’s what I came here for. I am here only to be of service to him and to you.’
 > 
 > ‘Oh, I see. Now I know who’s doing the double-dealing. Yes, I know,’ said the princess.
