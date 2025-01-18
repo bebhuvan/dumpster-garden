@@ -1,4 +1,5 @@
 ---
+title: Get lost in poetic reveries
 date: '2024-06-08'
 tags:
 - Poetic reveries
