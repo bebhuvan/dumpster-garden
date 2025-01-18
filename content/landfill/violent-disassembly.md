@@ -1,10 +1,8 @@
 ---
-title: "Violent disassembly
-"
-date: -001-11-30
+title: "Violent Disassembly"  # or whatever title you want
+date: 2024-01-18  # use appropriate date instead of -001-11-30
 tags:
-- Uncategorized
-title: ''
+  - Uncategorized
 ---
 
 ## Violent disassembly 
