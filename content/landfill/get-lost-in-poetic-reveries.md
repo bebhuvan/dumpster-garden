@@ -1,9 +1,8 @@
 ---
-title: Get lost in poetic reveries
-date: '2024-06-08'
+title: "Get lost in poetic reveries"
+date: 2024-06-08
 tags:
-- Poetic reveries
-title: Get lost in poetic reveries
+  - Poetic reveries
 ---
 
 ### See the light and get lost in it. 
