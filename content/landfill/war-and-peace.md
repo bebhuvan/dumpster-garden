@@ -130,7 +130,7 @@ Going back to my comment about the novel being a mirror, this part of the story 
 
 17. **[Doleful](https://en.wiktionary.org/wiki/doleful)**: Expressing sorrow or sadness. As in the feeling after you waste 10 minutes watching Rakhi Sawant videos.
 
-18. **[Antechamber](https://en.wiktionary.org/wiki/antechamber)**: A small room that's used as an entryway to a larger room. Reception area. It's also known as something you cannot afford to build even if you work 80 hours a day. #NarayanaMurthyFail
+18. **[Antechamber](https://en.wiktionary.org/wiki/antechamber)**: A small room that's used as an entryway to a larger room. Reception area. It's also known as something you cannot afford to build even if you work 80 hours a day. # NarayanaMurthyFail
 
 19. **[Adjutant](https://en.wiktionary.org/wiki/adjutant)**: A low-ranking military officer who serves as an assistant to a senior officer. Basically a glorified secretary. Or a formal term for being someone else's bitch.
 
