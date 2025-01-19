@@ -14,17 +14,17 @@ I ordered a hardcover of the [translation by Anthony Briggs](https://www.bookswa
 
 ![War and Peace](/static/images/war-and-peace.webp)
 
-At 1,358 pages, it's less a novel and more of a murder weapon, a cheap bullet-stopper, a doorstop, an unsuitable paperweight, and a karate chops practice prop. Undeterred, I started reading the book, and I'm 100 pages in and I'm hooked. I thought the book would be in abstruse English, but it's surprisingly readable. I wouldn't call it breezy, but it doesn't give migraines either.
+At 1,358 pages, it’s less a novel and more of a murder weapon, a cheap bullet-stopper, a doorstop, an unsuitable paperweight, and a karate chops practice prop. Undeterred, I started reading the book, and I’m 100 pages in and I’m hooked. I thought the book would be in abstruse English, but it’s surprisingly readable. I wouldn’t call it breezy, but it doesn’t give migraines either.
 
-It's a beautiful novel that slowly becomes a mirror, reflecting all the good, bad, horrible, dumb, and annoying things that make us human. It's a 1,350-page portrait of the human condition. So every week, I'll keep sharing an update as I read the book. Also, if you want to join me in reading, grab a copy and then send me a message on Twitter or LinkedIn. I think it'll be fun.
+It’s a beautiful novel that slowly becomes a mirror, reflecting all the good, bad, horrible, dumb, and annoying things that make us human. It’s a 1,350-page portrait of the human condition. So every week, I’ll keep sharing an update as I read the book. Also, if you want to join me in reading, grab a copy and then send me a message on Twitter or LinkedIn. I think it’ll be fun.
 
 ---
 
 ### Entry date: January 18th
 
-The book starts with a chronology of Tolstoy's life, and damn, the man lived an interesting life, to say the least. From dropping out of college, drinking, cavorting with prostitutes, joining the army, starting doomed relationships, to having a spiritual crisis - the man lived, and I mean, really lived.
+The book starts with a chronology of Tolstoy’s life, and damn, the man lived an interesting life, to say the least. From dropping out of college, drinking, cavorting with prostitutes, joining the army, starting doomed relationships, to having a spiritual crisis—the man lived, and I mean, really lived.
 
-In the introduction, Anthony Briggs writes: 
+In the introduction, Anthony Briggs writes:
 
 > The strength of *War and Peace* is in the weakness of its characters 
 
@@ -32,11 +32,11 @@ Then he adds:
 
 > Oscar Wilde said that what made Russian writers' books 'so great is the pity they put in them'. They have seen life, tackled it and tried their best, and they know a truth that rarely declares itself, especially in stories that are meant for entertainment. It is this: virtually everyone - even people in advantageous or privileged circumstances - finds the living of life a worrying and difficult business most of the time. The novel takes us in rich detail through all the seven ages of man from childhood to old age, and explores their difficulties, all of which are played out under the gathering shadow of death, the one certainty. As another Russian writer, Boris Pasternak, concluded in the novel Dr Zhivago: 'Living life is not just a walk across a field.'
 
-These aspects soon start becoming apparent. Earlier in the post, I said "the novel"—Tolstoy [didn't think](https://en.wikipedia.org/wiki/War_and_Peace) _War and Peace_ was a novel—and that was deliberate. The funny thing was, I started thinking about my own family dynamics and the absurd stories involving my relatives as I read the book. The depth and detail of each character's personality is brilliant. It's as if Tolstoy knew each and every one of the characters intimately well.
+These aspects soon start becoming apparent. Earlier in the post, I said “the novel”—Tolstoy [**didn’t think**](https://en.wikipedia.org/wiki/War_and_Peace) _War and Peace_ was a novel—and that was deliberate. The funny thing was, I started thinking about my own family dynamics and the absurd stories involving my relatives as I read the book. The depth and detail of each character’s personality are brilliant. It’s as if Tolstoy knew each and every one of the characters intimately.
 
 As the story picks up pace, you can see the full spectrum of the human condition from love, loss, hatred, envy, greed, stupidity, to gluttony on full and vivid display. Strangely, I could relate to a lot of these human foibles. Two examples come to mind.
 
-I chapter 14, there's a beautiful display of friendship: 
+In chapter 14, there’s a beautiful display of friendship:
 
 > ‘Oh, my dear count, money, money, money – how much trouble it causes in this world!’ said the countess. ‘But I do need it very much.’
 > 
@@ -56,7 +56,7 @@ I chapter 14, there's a beautiful display of friendship:
 
 I've been privileged enough to have friends who've more or less taken care of me during the low points of my life. Being on the receiving end of such magnanimity is one of the closest things I know to true grace.
 
-The conversation below occurs at the start of Chapter 16 and it's about whether Russia should fight Napoleon Bonaparte. It reminded me of the pointless arguments that consume the entire world on social media. In Tsarist Russia, heated debates around dinner tables and in salons were the Twitter of the era.
+The conversation below occurs at the start of Chapter 16, and it’s about whether Russia should fight Napoleon Bonaparte. It reminded me of the pointless arguments that consume the entire world on social media. In Tsarist Russia, heated debates around dinner tables and in salons were the Twitter of the era.
 
 > At the men’s end of the table the conversation was becoming more and more animated. The colonel told them that war had been declared through a manifesto issued in Petersburg and that he had seen with his own eyes a copy sent by courier to the commander-in-chief.
 > 
@@ -74,7 +74,7 @@ The conversation below occurs at the start of Chapter 16 and it's about whether 
 > 
 > ‘Ve must fight to ze last trop of our ploot,’ said the colonel, thumping the table, ‘and die for our Emperor, and zen all vill be vell. And sink about sings as leedle as possible,’ he concluded, turning again to the count, and drawing out the word ‘po-ossible’. ‘Zat ees how ve old zoldiers see it, and zat ees all zere ees to see.  
 
-In Chapter 18, Count Bezukhov, a famous and enormously rich nobleman from the time of Catherine the Great, is on his deathbed having suffered multiple strokes. But in the halls of the Count's home, grief takes a backseat as his relatives are preoccupied not with the impending death but rather with scheming about how to get a piece of the Count's vast fortune. This chapter is a great example of how greed can blind men even in the darkest moments of life.
+In Chapter 18, Count Bezukhov, a famous and enormously rich nobleman from the time of Catherine the Great, is on his deathbed having suffered multiple strokes. However, in the halls of the Count’s home, grief takes a backseat as his relatives are preoccupied not with the impending death but rather with scheming about how to get a piece of the Count’s vast fortune. This chapter is a great example of how greed can blind men even in the darkest moments of life.
 
 > ‘Katishe, you really don’t seem to understand! If you’re that intelligent, why can’t you see that if the count has written to the Emperor asking for recognition of Pierre as legitimate, he won’t be Pierre any more, he’ll be Count Bezukhov, and he’ll inherit everything under the will? And if the will and the letter have not been destroyed, then – apart from the consolation of having done your duty and all the rest of it – you are left with nothing. And that’s a fact.’
 > 
@@ -126,13 +126,13 @@ Going back to my comment about the novel being a mirror, this part of the story 
 
 16. **[Rapture](https://en.wiktionary.org/wiki/rapture)**: Feeling of intense pleasure or joy. Ecstasy. It's basically the feeling just before you close your incognito tabs, if you know what I mean.
 
-17. **[Doleful](https://en.wiktionary.org/wiki/doleful)**: Expressing sorrow, sadness. As in the feeling after you waste 10 mins watching Rakhi Sawant videos.
+17. **[Doleful](https://en.wiktionary.org/wiki/doleful)**: Expressing sorrow or sadness. As in the feeling after you waste 10 minutes watching Rakhi Sawant videos.
 
 18. **[Antechamber](https://en.wiktionary.org/wiki/antechamber)**: A small room that's used as an entryway to a larger room. Reception area. It's also known as something you cannot afford to build even if you work 80 hours a day. #NarayanaMurthyFail
 
 19. **[Adjutant](https://en.wiktionary.org/wiki/adjutant)**: A low-ranking military officer who serves as an assistant to a senior officer. Basically a glorified secretary. Or a formal term for being someone else's bitch.
 
-20. **[Plaintive](https://en.wiktionary.org/wiki/plaintive)**: Sad or mournful. It also means "how many fucking English words do we have for sad? Why can't we just say sad and get it over with?"
+20. **[Plaintive](https://en.wiktionary.org/wiki/plaintive)**: Sad or mournful. It also means, “How many fucking English words do we have for sad? Why can’t we just say sad and get it over with?”
 
 21. **[Dissipated lifestyle](https://en.wiktionary.org/wiki/dissipated)**: An overindulgent lifestyle filled with pleasure and debauchery. Cue Honey Singh's Millionaire.
 
@@ -168,7 +168,7 @@ Going back to my comment about the novel being a mirror, this part of the story 
 
 37. **[Exactitude](https://en.wiktionary.org/wiki/exactitude)**: Accurate, meticulous. As in "he asked the priest to fuck off with great exactitude."
 
-38. **[Desiccated](https://en.wiktionary.org/wiki/desiccate#English)**: Dry or lacking moisture. You can use this word in winter to say, "kiss my desiccated ass."
+38. **[Desiccated](https://en.wiktionary.org/wiki/desiccate#English)**: Dry or lacking moisture. You can use this word in winter to say, "Kiss my desiccated ass."
 
 39. **[Winsome](https://en.wiktionary.org/wiki/winsome)**: Charming and attractive.
 

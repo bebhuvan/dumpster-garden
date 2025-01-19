@@ -1,6 +1,6 @@
 ---
 title: Dumpster Diving
-date: 2024-01-14
+date: 2024-01-18
 tags:
   - web-finds
   - curated

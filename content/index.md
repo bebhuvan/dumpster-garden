@@ -16,8 +16,10 @@ Each dumpster has its own charm:
 - [[scribbles/index|Scribbles]] - Quotes
 - [[salvage/index|Salvage]] - Whatever is leftover
 
-## Newsletter
+## Newsletter and RSS
 I also send out whatever I write as a [newsletter](https://bhuvan.substack.com/). So, if you'd like to add another newsletter to the list of newsletters you've already subscribed to but aren't reading, mine qualifies.
+
+You can also subscribe via [RSS](/index.xml) 📡 if you are a luddite. 
 
 ## Navigation Tips
 Just click on one of the categories, browse the explorer, or search for something. This garden of mine is deliberately messy and will remain so. It's a place with all the things I am exploring, so hopefully, you'll discover some new rabbit holes to go tumbling down.
