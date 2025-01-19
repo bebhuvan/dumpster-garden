@@ -5,6 +5,8 @@ tags:
   - "war and peace"
   - books
 ---
+![War and Peace](/static/images/war-and-peace-cover.webp)
+
 
 As I've said before, I have a doomscrolling problem. Either luckily or tragically, I don't doomscroll on Instagram and Facebook but on Twitter and the Substack app, where I'm always hunting for the next link to add to my ever-expanding "not read, won't read" pile. Yes, I'm a weirdo. If you're judging me, rest assured that I am still much better than you.
 
