@@ -36,7 +36,7 @@ These aspects soon start becoming apparent. Earlier in the post, I said "the nov
 
 As the story picks up pace, you can see the full spectrum of the human condition from love, loss, hatred, envy, greed, stupidity, to gluttony on full and vivid display. Strangely, I could relate to a lot of these human foibles. Two examples come to mind.
 
-The first was was a beautiful display of friendship:  
+I chapter 14, there's a beautiful display of friendship: 
 
 > ‘Oh, my dear count, money, money, money – how much trouble it causes in this world!’ said the countess. ‘But I do need it very much.’
 > 
@@ -54,7 +54,9 @@ The first was was a beautiful display of friendship:
 > 
 > Anna Mikhaylovna’s arms were round her. She was weeping, and the countess wept too. They wept for their friendship, their kind-heartedness and the unfortunate need for lifelong friends to soil their hands with anything as sordid as money, and they wept also for their lost youth … But the tears of both women were sweet …
 
-The second was a discussion on whether Russia should fight Napoleon Bonaparte. This entire conversation reminded me of the pointless arguments that the entire world on social media. 
+I've been privileged enough to have friends who've more or less taken care of me during the low points of my life. Being on the receiving end of such magnanimity is one of the closest things I know to true grace.
+
+The conversation below occurs at the start of Chapter 16 and it's about whether Russia should fight Napoleon Bonaparte. It reminded me of the pointless arguments that consume the entire world on social media. In Tsarist Russia, heated debates around dinner tables and in salons were the Twitter of the era.
 
 > At the men’s end of the table the conversation was becoming more and more animated. The colonel told them that war had been declared through a manifesto issued in Petersburg and that he had seen with his own eyes a copy sent by courier to the commander-in-chief.
 > 
@@ -72,7 +74,7 @@ The second was a discussion on whether Russia should fight Napoleon Bonaparte. T
 > 
 > ‘Ve must fight to ze last trop of our ploot,’ said the colonel, thumping the table, ‘and die for our Emperor, and zen all vill be vell. And sink about sings as leedle as possible,’ he concluded, turning again to the count, and drawing out the word ‘po-ossible’. ‘Zat ees how ve old zoldiers see it, and zat ees all zere ees to see.  
 
-This scene is my favorite. The rich Count Bezukhov is on the death bed and is expected to die any moment. Instead of grief and mourning, his relatives all jockey to get a piece of his estate. This chapter in the novel is a great but dark example of how greed can blind men:  
+In Chapter 18, Count Bezukhov, a famous and enormously rich nobleman from the time of Catherine the Great, is on his deathbed having suffered multiple strokes. But in the halls of the Count's home, grief takes a backseat as his relatives are preoccupied not with the impending death but rather with scheming about how to get a piece of the Count's vast fortune. This chapter is a great example of how greed can blind men even in the darkest moments of life.
 
 > ‘Katishe, you really don’t seem to understand! If you’re that intelligent, why can’t you see that if the count has written to the Emperor asking for recognition of Pierre as legitimate, he won’t be Pierre any more, he’ll be Count Bezukhov, and he’ll inherit everything under the will? And if the will and the letter have not been destroyed, then – apart from the consolation of having done your duty and all the rest of it – you are left with nothing. And that’s a fact.’
 > 
@@ -89,5 +91,85 @@ This scene is my favorite. The rich Count Bezukhov is on the death bed and is ex
 > ‘It’s that Anna Mikhaylovna, your lovely protégée. I wouldn’t have her as a housemaid – ghastly, horrible woman.’
 
 Going back to my comment about the novel being a mirror, this part of the story reminded me of all the countless property disputes, the breaking apart of relationships, endless recriminations, and long grudges in my family. If one is not careful, money can slowly corrode all that is good, beautiful, and valuable in life.
+
+### A few new words I've learned from War and Peace
+
+1. **[Lugubrious](https://en.wiktionary.org/wiki/lugubrious)**: Gloomy or mournful.
+
+2. **[Pensive](https://en.wiktionary.org/wiki/pensive)**: Engaged in deep thought or reflection; melancholic.
+
+3. **[Solemn](https://en.wiktionary.org/wiki/solemn)**: Formal, serious, somber.
+
+4. **[Samovar](https://en.wiktionary.org/wiki/samovar)**: A large metal container used to heat tea and water.
+
+5. **[Reticule](https://en.wiktionary.org/wiki/reticule)**: A small decorative handbag or purse.
+
+6. **[Jabot](https://en.wiktionary.org/wiki/jabot)**: A decorative fabric worn on the front of a shirt. Think reverse baniyan.
+
+7. **[Grandee](https://en.wiktionary.org/wiki/grandee)**: A high-ranking nobleman.
+
+8. **[Abbe](https://en.wiktionary.org/wiki/Abbe)**: Low-ranking clergyman.
+
+9. **[Raconteur](https://en.wiktionary.org/wiki/raconteur)**: An entertaining storyteller.
+
+10. **[Truculent](https://en.wiktionary.org/wiki/truculent)**: Defiant and hostile.
+
+11. **[Peevish](https://en.wiktionary.org/wiki/peevish)**: Easily irritated or annoyed.
+
+12. **[Lorgnette](https://en.wiktionary.org/wiki/lorgnette)**: Eyeglasses or opera glasses with a handle. Basically douchey eyeglasses.
+
+13. **[Assignation](https://en.wiktionary.org/wiki/assignation)**: A secret meeting usually for romantic purposes. Fancy word for booty call.
+
+14. **[Glowered](https://en.wiktionary.org/wiki/glower)**: Staring in anger to express disapproval or resentment.
+
+15. **[Languid](https://en.wiktionary.org/wiki/languid)**: Slow, lacking energy, or indifferent.
+
+16. **[Rapture](https://en.wiktionary.org/wiki/rapture)**: Feeling of intense pleasure or joy. Ecstasy. It's basically the feeling just before you close your incognito tabs, if you know what I mean.
+
+17. **[Doleful](https://en.wiktionary.org/wiki/doleful)**: Expressing sorrow, sadness. As in the feeling after you waste 10 mins watching Rakhi Sawant videos.
+
+18. **[Antechamber](https://en.wiktionary.org/wiki/antechamber)**: A small room that's used as an entryway to a larger room. Reception area. It's also known as something you cannot afford to build even if you work 80 hours a day. #NarayanaMurthyFail
+
+19. **[Adjutant](https://en.wiktionary.org/wiki/adjutant)**: A low-ranking military officer who serves as an assistant to a senior officer. Basically a glorified secretary. Or a formal term for being someone else's bitch.
+
+20. **[Plaintive](https://en.wiktionary.org/wiki/plaintive)**: Sad or mournful. It also means "how many fucking English words do we have for sad? Why can't we just say sad and get it over with?"
+
+21. **[Dissipated lifestyle](https://en.wiktionary.org/wiki/dissipated)**: An overindulgent lifestyle filled with pleasure and debauchery. Cue Honey Singh's Millionaire.
+
+22. **[Limpid](https://en.wiktionary.org/wiki/limpid)**: Clear, transparent, or bright.
+
+23. **[Vestibule](https://en.wiktionary.org/wiki/vestibule)**: A small entrance hall or passage that leads to a larger room. See antechamber. Rich people stuff.
+
+24. **[Sallow](https://en.wiktionary.org/wiki/sallow)**: Pale or yellowish complexion.
+
+25. **[Stricture](https://en.wiktionary.org/wiki/stricture)**: A rule that limits something; formal criticism.
+
+26. **[Waddling](https://en.wiktionary.org/wiki/waddle#English)**: Walking where the body sways. Feels like a fat joke to me.
+
+27. **[Shifty](https://en.wiktionary.org/wiki/shifty)**: Suspicious.
+
+28. **[Pouffe](https://dictionary.cambridge.org/dictionary/english/pouf)**: An upholstered cushioned seat without a back or arms. In other words, a fancy fucking stool!
+
+29. **[Trooped out](https://en.wiktionary.org/wiki/troop#English)**: To move out in an orderly fashion. The opposite of "run for your lives!"
+
+30. **[Ingenuously](https://en.wiktionary.org/wiki/ingenuously)**: Sincere and straightforward.
+
+31. **[Florid](https://en.wiktionary.org/wiki/florid)** face: Reddish or flushed complexion due to drinking or embarrassment.
+
+32. **[Prim](https://en.wiktionary.org/wiki/florid)**: Neat, prudish, formal. As in "that prim little fucker."
+
+33. **[Furtive](https://en.wiktionary.org/wiki/furtive)**: Doing something in secrecy. As in "he let out a furtive fart in a packed room with the windows closed and AC switched off."
+
+34. **[Decanter](https://en.wiktionary.org/wiki/decanter)**: A glass or crystal bottle for serving alcohol. Basically rich people's water bottle.
+
+35. **[Nonplussed](https://en.wiktionary.org/wiki/nonplussed)**: Surprised, bewildered, confounded. As in the feeling people will have when they discover your furtive fart.
+
+36. **[Unctuous](https://en.wiktionary.org/wiki/unctuous)**: Someone who's eager to please in an insincere and manipulative way. Basically ass-kissing.
+
+37. **[Exactitude](https://en.wiktionary.org/wiki/exactitude)**: Accurate, meticulous. As in "he asked the priest to fuck off with great exactitude."
+
+38. **[Desiccated](https://en.wiktionary.org/wiki/desiccate#English)**: Dry or lacking moisture. You can use this word in winter to say, "kiss my desiccated ass."
+
+39. **[Winsome](https://en.wiktionary.org/wiki/winsome)**: Charming and attractive.
 
 Until the next week. 

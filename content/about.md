@@ -93,6 +93,33 @@ Pretty much everything I have ever learned is thanks to the internet, including 
 
 Given that I've learned from others, I had this strong urge to pay it forward by sharing the things I learned. It didn't seem right to me not to do so. In a way, this garden is also a way of thanking all the people I learn from by sharing it in the hopes that other people may discover and learn a thing or two just like I did.
 
+The other reason is that I've been increasingly thinking about our "information ecosystems" and how broken they are. From the noxious and filthy social media feeds to the decaying print media, the degenerating online media, to the cacophony of the chimera called "new media" that's taking the space ceded by the old, things are changing.
+
+I'm not crying for the good old days when everything was all right. I, of all people, should know that there were no good old days. Drowning in tides of bullshit of varying intensities has been a constant feature throughout humanity. It's just that the tides of bullshit now have tsunamis of bullshit, thanks to digital technologies.
+
+> The best explanation for the good old days is a bad memory. — Franklin Pierce Adams
+
+Given that I've grown up as a citizen of the extremely online era, I've had the nagging feeling that this isn't working. By that, I mean our information ecosystems are not serving us well.
+
+I don't know what the good solution is, but I do know that part of it involves building your own tools and spaces to learn, think, and share information. That is, we all need our own spaces—private or otherwise—that help us think, learn, and share. Spaces don't solve the information acquisition problem, but by putting structure into how you consume things and opening them up to scrutiny from the rest of the world, they help you stabilize against the absolute idiocy and nonsense.
+
+This is the only way we can retain our sanity, given that hurricanes and typhoons of swirling bullshit are raging all around us. It is very easy to get caught in this and simply vanish.
+
+So, this is my own tiny, cause-driven space in the absolutely horrendous, foul, noxious, and disgusting dumpster fire that is the internet. This is my nod to the quaint web of yore.
+
+Perhaps most importantly, this garden is my space to understand the shape of my ignorance:
+
+> This isn’t to say that philosophical enquiry should be unconstrained by concern for discovering truths. On the contrary, we should pursue truth earnestly. But philosophical enquiry is naturally adventuresome, exploring topics where our ordinary epistemic tools break, revealing their limitations. When we plunge after the most fundamental questions, we shouldn’t expect to find the one final truth that all future thinkers will be compelled to accept by argumentative force. More realistically, we should hope for glimpses through the fog. **Often, our best success is only to better appreciate the shape of our ignorance. The distinctively awesome task of philosophy is to contemplate the most general and important questions that lie beyond our full grasp.**
+>
+> A metaphor: as the circle of light expands, Einstein apocryphally said, so too does the ring of darkness around it. Philosophy lives in that ring of darkness. More specifically, it lives in the penumbra, the shadowy boundary just beyond the light. — [Eric Schwitzgebel](https://aeon.co/essays/if-you-ask-why-youre-a-philosopher-and-youre-awesome)
+
+---
+### A thank you note
+
+I also want to thank [Jacky Zhao](https://x.com/_jzhao) for building [Quartz](https://quartz.jzhao.xyz/) and open-sourcing it. The fact that a non-tech idiot like me can figure out how to get this site up and running so easily using Quartz is a testament to the insane amount of work that's gone into building it.
+
+This tool is awesome, and the fact that Jacky was gracious enough to open-source it is ridiculous. I can easily imagine people, including myself, paying for it. At the very least, Jacky could've made some money by monetizing it.
+
 ---
 
 ### Here's what I had originally written on the about page when I set it up in 2024:
