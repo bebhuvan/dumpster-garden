@@ -118,7 +118,7 @@ Perhaps most importantly, this garden is my space to understand the shape of my 
 
 I also want to thank [Jacky Zhao](https://x.com/_jzhao) for building [Quartz](https://quartz.jzhao.xyz/) and open-sourcing it. The fact that a non-tech idiot like me can figure out how to get this site up and running so easily using Quartz is a testament to the insane amount of work that's gone into building it.
 
-This tool is awesome, and the fact that Jacky was gracious enough to open-source it is ridiculous. I can easily imagine people, including myself, paying for it. At the very least, Jacky could've made some money by monetizing it.
+This tool is awesome, and the fact that Jacky was gracious enough to open-source it is ridiculous. I can easily imagine people, including myself, paying for it. At the very least, Jacky could've made some money by monetizing it. So, once again, thank you Jacky.
 
 ---
 
