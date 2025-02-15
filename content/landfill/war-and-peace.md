@@ -175,3 +175,130 @@ Going back to my comment about the novel being a mirror, this part of the story 
 39. **[Winsome](https://en.wiktionary.org/wiki/winsome)**: Charming and attractive.
 
 Until the next week. 
+
+--- 
+
+### Entry date: February 15th
+
+I'm almost [300 pages into the book](https://www.amazon.in/War-Peace-Penguin-Popular-Classics-ebook/dp/B0033805UG), and before I describe my experience, I want to share the introduction to the book, especially the passage in bold.
+
+> **Although _War and Peace_ has often been described as the greatest novel ever written, Tolstoy once claimed it wasn’t a novel at all. Henry James, giving the title as _Peace and War_, called it a fluid pudding and included it in a list of ‘large, loose baggy monsters’. By contrast, it has also been compared to _The Iliad_ in scope and technique, and Prince Dmitri Mirsky, the distinguished émigré historian of Russian literature, called it ‘the most important work in the whole of Russian realistic fiction’.**
+> 
+> Tolstoy’s protestation that it wasn’t a novel had a particular purpose. He wanted his readers to expect something broader and deeper than the romances they were used to finding in fiction. There would be no single hero and heroine, no straightforward system of exposition, crisis and resolution, no orthodox ending. It was a book in which Tolstoy made up new rules as it expanded: a society novel that turned into a family story, only to grow into a historical chronicle and a mighty epic that was underwritten by a deep interest in individual destinies and intimate human detail. It was a fifteen-year tranche of human experience (1805–20), fictional and real, located in Russian society in an age of critical importance for Europe as a whole, and Tolstoy made an unprecedented attempt to bring together the widest possible range of interests – personal, social, psychological and historical. But most important is his instinctive skill as a teller of stories and creator of characters. The lasting quality of _War and Peace_ lies in its compelling narrative and fascinating people, imagined and historical. Perhaps _Peace and War_ might have been a more appropriate title, because only about a third of the action takes place on or near the battlefield. Anyone coming to this novel for the first time can be assured of one thing: you are going to enjoy some very good stories.
+
+For some reason, I thought Henry James called it _War and Life_ and not _Peace and War._ Over the last hundred or so pages, _War and Life_ has been playing over and over in my head because I think it's a more apt title for the book than _War and Peace._ If I were to write a pithy description of the novel, I'd call it “a searing and brutal portrait of life.”
+
+I recently came across Brutalist architecture somewhere, and here's the [intro to the Wikipedia entry](https://en.wikipedia.org/wiki/Brutalist_architecture):
+
+> Brutalist architecture is an architectural style that emerged during the 1950s in the United Kingdom, among the reconstruction projects of the post-war era. Brutalist buildings are characterised by minimalist constructions that showcase the bare building materials and structural elements over decorative design. The style commonly makes use of exposed, unpainted concrete or brick, angular geometric shapes and a predominantly monochrome colour palette; other materials, such as steel, timber, and glass, are also featured.
+
+Well, I'd describe the *War and Peace* as a brutalist novel because you get to see life itself exposed and bare. A few books in between one of my doomscrolling sessions on Twitter, I cam across [this note](https://substack.com/@henryoliver/note/c-87840071?utm_source=notes-share-action&r=1eft5) by the awesome Henry Oliver and in the comments I came across this link to WSJ column by Peggy Noonan about her experience reading the book. The [sub-heading](https://www.wsj.com/articles/my-summer-with-leo-tolstoy-reading-literature-arts-books-war-and-peace-great-works-cb8f3175?st=WMY7wu&reflink=article_copyURL_share) of the article is:
+
+> This year I finally resolved to read ‘War and Peace.’ To think I might have died without having read it.
+
+This is exactly how I feel. 
+
+I was recommending the book to my colleagues, and I said something like, “Damn those fucking Russians; they lived life in all its gore and glory, and that shows up in the book.” I said it offhand, but I couldn't have put it better if I tried.
+
+I was planning to write an entry every week, but I couldn't for the last couple of weeks. In the last entry, I'd just finished chapter 18. The fabulously rich old count was dying, and his relatives were all scheming to get a piece of his wealth. The entire chapter is like watching a chess match unfold. This saga ends with Pierre, the illegitimate son of the count, becoming the heir despite the best efforts of Prince Vassily Kuragin and Princess Katerina (Katishe), the Count’s eldest daughter, who conspire to suppress the new will.
+
+Here’s how the saga of the fight over the Count’s will ends:
+
+> ‘Foul woman!’ screamed Princess Katishe, suddenly pouncing on Anna Mikhaylovna and wrenching the portfolio from her hands. Prince Vasily bowed his head and spread his hands.
+> 
+> At that moment the door, that dreaded door at which Pierre had gazed so long and which usually opened so softly, was suddenly flung open and banged against the wall, and the second of the three sisters rushed out wringing her hands.
+> 
+> ‘What are you doing?’ she said, in despair. ‘He is passing away, and you leave me alone.’
+> 
+> Her sister dropped the portfolio. Anna Mikhaylovna swooped down, grabbed the object of contention and ran into the bedroom. The eldest princess and Prince Vasily pulled themselves together and followed.
+> 
+> A few minutes later the eldest princess was the first to re-emerge with a pale, dry face, biting her lip. At the sight of Pierre her face crumbled into uncontrolled hatred.
+> 
+> ‘Oh, it’s all right for you,’ she said, ‘you’ve got what you wanted.’ She buried her face in her handkerchief and ran sobbing out of the room.
+> 
+> Then came Prince Vasily. He staggered as far as the sofa where Pierre was sitting and sank down on it, covering his eyes with one hand. Pierre noticed he was pale, and his jaw was quivering and twitching as if he was having a fit.
+> 
+> **‘Oh, my dear boy,’ he said, taking Pierre by the elbow, his voice ringing with a sincerity and weakness that Pierre had never seen in him before, ‘we sin, we cheat, and what’s it all for? I’m over fifty, my friend … And I too … Everything ends in death, everything does. Death is so horrible …’ And he burst into tears.**
+
+I know a few “Vasilys” in my own family—people whose entire world revolves around a grotesque desire for wealth. Such people are so blinded by their lust for money and property that they'll forsake their own families.
+
+Starting in Chapter 22, life takes center stage as love, lust, resentment, regret, and heartbreak all unfold in full glory. A stern father, a frightened daughter, a pregnant wife seeing her husband off to war, and a resentful husband—who craves glory more than he cares for his family (including his pregnant wife)—all have their lives shaped by the impending conflict.
+
+Prince Andrey is leaving his pregnant wife at his father’s home to take part in the war, and just before he leaves, he has an emotional conversation with his sister:
+
+> ‘So, as I was saying, Andrey, please be kind and generous as you always used to be. Don’t judge Lise too harshly,’ she began again. ‘She is so sweet and kind, and her present situation is very difficult.’
+> 
+> ‘Masha, I don’t think I’ve said anything about blaming my wife for anything or being dissatisfied with her. Why do you go on like this?’
+> 
+> ‘So, as I was saying, Andrey, please be kind and generous as you always used to be. Don’t judge Lise too harshly,’ she began again. ‘She is so sweet and kind, and her present situation is very difficult.’
+> 
+> ‘Masha, I don’t think I’ve said anything about blaming my wife for anything or being dissatisfied with her. Why do you go on like this?’
+> 
+> Princess Marya went all red and blotchy, and stopped speaking as though she felt guilty.  
+> ‘I have said nothing to you, but _other people have._ That’s what makes me sad.’
+> 
+> The red blotches stood out stronger than ever on her forehead, cheeks and neck. She would have liked to say something, but couldn’t get it out. Her brother had guessed the truth: his wife had shed tears after dinner, saying she knew she was in for a difficult birth and was terrified of it, and she had cursed her misfortune, her father-in-law and her husband. Only then had she fallen asleep. Prince Andrey was sorry for his sister.
+> 
+> **‘I can tell you one thing, Masha, I can’t reproach _my wife_ for anything, I never have done and never shall do, nor do I reproach myself in relation to her, and that will always be so in any circumstances whatsoever. But if you really want to know … well, whether I’m happy, the answer is no. Is she happy? No. Why not? I don’t know …’**
+> 
+> As he said this, he stood up, went over to his sister and bent to kiss her on the forehead. His handsome eyes were shining with an unusual brightness and kindness, but he was looking past his sister’s head through the open door into the darkness beyond.
+
+I don't want to write a book review, because that's the last thing this world needs—especially when it comes to classics. I also don't want to produce chapter-by-chapter summaries, because this is a book you have to surrender to and get lost in, not summarize. That said, there are so many examples of exquisite writing that strike like a heavyweight boxer's punch, and I can't help but share them.
+
+This passage is from Chapter 8, just as the Russian and French armies are maneuvering and the first shots are fired. What a poetic description of the death that awaits the soldiers:
+
+>  Suddenly along the road on the opposite slope some troops and artillery appeared; the men were wearing blue greatcoats. It was the French. A Cossack patrol trotted back downhill. The officers and men of Denisov’s squadron chatted on, trying to ignore all this and look elsewhere, but every last one of them had his mind on what was up there on the hillside and nothing else; they kept glancing at dark patches appearing on the skyline, which they knew to be enemy forces. The weather had cleared during the afternoon, and the sun shone brightly as it began to go down over the Danube and the dark surrounding hills. It was quiet. Except that now and then the far hillside rang with sounds: a bugle call or the enemy shouting. No one but a few patrolling men stood now between the squadron and the enemy. A mere half-mile of empty space separated the two sides. The enemy held their fire, increasing the sense of that dark, menacing, mysterious and intangible dividing line that exists between two warring armies.
+> 
+** ‘One step across that dividing line, so like the one between the living and the dead, and you enter an unknown world of suffering and death. What will you find there? Who will be there? There, just beyond that field, that tree, that sunlit roof? No one knows, and yet you want to know. You dread crossing that line, and yet you still want to cross it. You know sooner or later you will have to go across and find out what is there beyond it, just as you must inevitably find out what lies beyond death. Yet here you are, fit and strong, carefree and excited, with men all around you just the same – strong, excited and full of life.’** This is what all men think when they get a sight of the enemy, or they feel it if they do not think it, and it is this feeling that gives a special lustre and a delicious edge to the awareness of everything that is now happening.
+
+This passage is from the same chapter
+
+> He was just standing there looking around when suddenly there was a great rattling sound on the bridge, like a scattering of nuts, and one of the hussars standing right next to him fell with a groan against the railing. Rostov ran to him along with the others. Again a voice called out, ‘Stretcher here!’ Four men took hold of the hussar and started to lift him.  
+> 
+> ‘Ooooh! … Jesus Christ, leave me alone!’ screamed the wounded man, but they went ahead, lifted him and laid him on a stretcher. Nikolay Rostov turned away and began staring into the distance, at the waters of the Danube, at the sky, at the sun, as if he were looking for something. How lovely that sky looked, how blue and calm and deep! Oh, the brightness and magnificence of that setting sun! T**he warm glow of the water on the far Danube! Even lovelier were the distant hills that shone so blue beyond the Danube, the convent, the mysterious gorges, the pine woods misted over to their tops … everything so calm and happy … ‘I would ask for nothing, nothing in the world if only I could be there,’ thought Rostov. ‘In me, only in me and that sunshine, there is so much happiness, and _here_ … all this groaning and agony, this feeling of dread, all the uncertainty, this rushing about … There they are, shouting again, everybody’s running back somewhere, and I’m running too, and here is death – hanging over me, all around me … One flash, and I’ll never see that sunshine, that water, that mountain gorge ever again …’**
+> 
+> **Just then the sun disappeared behind the clouds, and more stretcher-bearers came into view ahead of Rostov. And the dread of death and of the stretchers, and the loss of all sunshine and life, everything fused into a single sensation of sickening horror.**
+> 
+> ‘Dear God, who art in heaven, save, forgive and deliver me,’ Rostov whispered to himself.
+
+War is no excuse not to shop for books; Prince Andrey is a man after my own heart:
+
+> Despite all that Bilibin had said, his news was received with rejoicing. A service of thanksgiving was arranged. Kutuzov was awarded the Grand Cross of Maria Theresa, and further awards went to the whole army. Bolkonsky received invitations from all and sundry, and spent the whole morning paying visits to the top people in the Austrian government. These went on into the afternoon and it was past four o’clock when Prince Andrey was able to make his way back to Bilibin’s, mentally composing a letter to his father about the battle and his reception at Brno. On the way he stopped off at a bookshop to stock up on reading material for the campaign, and stayed there for some time. When he finally reached the steps of Bilibin’s house, there stood a carriage half-stowed with luggage, and here was Franz, Bilibin’s servant, struggling in the doorway with a travelling trunk. — Chapter 12
+
+In this scene, the fight is about to unfold, and a group of Russian soldiers discuss life, death, and God. It’s so realistic, isn’t it?
+
+> ‘No, my dear fellow,’ said a pleasant voice that struck him as vaguely familiar, ‘I’m telling you – if we could know what’s going to happen after we’re dead not one of us would be scared of dying. There you have it, old man.’
+> 
+> A younger voice interrupted him to say, ‘Anyway, scared or not, it comes to us all.’
+> 
+> **‘But you’re still scared! You lot with your education,’ said a different, mature voice, cutting across the first two. ‘You gunners think you know it all, because you can take everything with you. Never short of a drop to drink or a bite to eat.’**
+> 
+> **This brought a laugh from the owner of the mature voice, apparently an infantry officer.**
+> 
+> **‘But we’re still scared,’ insisted the first voice, the one that Prince Andrey half-recognized. ‘We’re scared of the unknown, that’s what it’s all about. It’s all right saying the soul goes up to heaven … we know for certain there isn’t any heaven – there’s only the atmosphere up there.’**
+> 
+> Once again the mature voice interrupted. ‘Come on, Tushin, give us a drop of your home-made vodka.’
+> 
+> ‘Oh, it’s that captain in the canteen with no boots on,’ thought Prince Andrey, delighted to recognize that pleasant voice now so full of philosophy.
+> 
+> ‘Yes, have a swig,’ said Tushin, ‘but listen, the idea of a life to come …’
+> 
+> He never finished his sentence. At that moment a great whoosh came through the air. Nearer, nearer, faster and louder, louder and faster, and a cannonball – also not quite saying everything it wanted to say – thudded into the ground not far away, blasting the earth with superhuman force. The earth seemed to groan at receiving such a terrible blow.  — Chapter 16
+
+The choice of words describing the hail of bullets:
+
+> Two soldiers were dragging a third along with his arms around their necks. His head was covered with blood; he had lost his cap. He was hawking and spitting blood, a bullet having evidently got him in the mouth or throat. Another man came towards them, walking sturdily on his own with no gun, moaning and groaning, and shaking his wounded arm as pain hit him, while the blood poured down his greatcoat like liquid from a bottle. To judge by his face he seemed more scared than hurt: he had been wounded only a moment before. They crossed the road and started down a steep incline, where they saw several men lying on the sloping ground. Then they were met by a crowd of soldiers, some of them not wounded. These soldiers, gasping for breath as they hurried uphill, took no notice of the general and went on shouting to each other with much waving of their arms. Ahead of them through the smoke they could now see whole ranks of grey coats, and once the commanding officer set eyes on Bagration he ran off after the retreating mass of soldiers, shouting for them to come back. Bagration rode up to the ranks, where noisy sporadic fire drowned all speech including the officers’ shouted commands. The air was thick with gunsmoke. The soldiers’ faces were all animated and smudged with gunpowder. Ramrods plunged in and out, powder was poured into pans, charges came out of pouches, guns fired. What they were firing at couldn’t be seen for the smoke that hung undispersed by the wind. Much of the time the air was full of sweet sounds – the **whine and whistle of bullets.**
+
+Nikolai Rostov is one of the main characters in the book, and this is his first battle experience. The scene unfolds in Chapter 19, and it’s one of my favorites so far. The description of Nikolai’s experience is both exquisite and intense.
+
+> Rostov had his sabre raised, ready to slash with it, but at that moment Nikitenko, who had just galloped past, suddenly disappeared and Rostov himself felt flying through the air at an amazing speed and yet at the same time not moving. Was he dreaming? One of his comrades, Bandarchuk, almost crashed into him and flashed in a furious glare. Bandarchuk’s horse veered away and galloped on.
+> 
+> ‘What’s happened? Why can’t I move? I’m down. I’m dead.’ For a moment Rostov questioned and answered himself. There he was on his own in the middle of a field. Instead of the galloping horses and the hussars’ backs, all he could see around him was the earth and stubble, and no movement of any kind. There was warm blood under him.
+> 
+> ‘No, I’m only wounded. It’s my horse that’s dead.’ Little Rostov struggled to get up on to his forelegs, but sank back, pinning his rider’s leg. **Blood was flowing** from the horse’s head. He was thrashing about; he couldn’t get up. Rostov tried to get up too, and fell back down. His sabretache had snagged in the saddle. Where were our men? Where were the French? He had no idea. There was no one in sight.
+> 
+> He managed to free his leg and stood up. ‘Which way now? Where’s that dividing line that separated us off so neatly?’ he wondered, but this time there was no answer. ‘Something’s gone terribly wrong. Do things like this really happen? What do you do?’ he kept wondering as he got to his feet. Then he suddenly felt there was something dangling on his numb left arm that shouldn’t be there. The wrist seemed not to belong to his arm. He stared down at his hand, looking for blood. ‘Oh, look, someone’s coming,’ he thought with great delight, seeing some men running towards him. ‘They’ll help me!’ The first wore a strange shako and a blue coat; he had a swarthy sunburnt face and a hooked nose. He was followed by two others, and there were a lot more just behind him. One of them said something funny, not in Russian. Rostov could see a Russian hussar standing among the same sort of men wearing the same sort of hat. They were pinning him by the arms and holding his horse too, a bit further back.
+> 
+> ‘It’s one of our boys. He’s been taken prisoner … Yes, he has … Are they going to take me? Who are these people?’ Rostov was still wondering – he could hardly believe his eyes. ‘Is it the French?’ He looked at the Frenchmen running towards him, and although only a few seconds before he had been galloping along, dying to get at them and hack them to pieces, now that they were so near everything seemed so ghastly that again he couldn’t believe his eyes. **‘Who are they? Why are they running? They’re not after me! They can’t be after me! Why? They can’t want to kill me! Me. Everybody loves me!’ He remembered all the love he had had from his mother, from his family and his friends, and the idea of the enemy wanting to kill him seemed absurd. ‘But they might want to!’ He had been standing there rigid for more than ten seconds, not taking anything in. The hook-nosed Frenchman was getting near, so near you could see the look on his face. And the sight of this rampaging foreigner’s face as he sprinted breathlessly towards him with fixed bayonet suddenly terrified Rostov. He grabbed his pistol, and instead of firing he hurled it at the Frenchman and dashed towards the bushes as fast as his legs would carry him. Gone were the feelings of doubt and conflict that had pursued him across the bridge at Enns – he was running now like a hare chased by dogs. His whole being was reduced to a single sensation – he was terrified and running for his young and happy life.** He scorched the ground, raced over fields and soared over hedges like the lively child he had once been, chasing his friends, once or twice turning his kind, pale, youthful face to look back, only to feel a chill of horror run down his spine. ‘No, don’t look back,’ he thought, but crashed into the bushes as he fled.
+
+That's it for this week. 
