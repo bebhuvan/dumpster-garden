@@ -5,7 +5,7 @@ description: "Reflections on Salman Rushdie's Knife."
 tags: ["Salman Rushdie", "Books"]
 ---
 
-![The Third of May 1808 in Madrid by Francisco Goya](/content/static/images/the-third-of-may-goya.webp)
+![The Third of May 1808 in Madrid by Francisco Goya](the-third-of-may-goya.webp)
 
 *[The Third of May 1808 in Madrid by Francisco Goya](https://en.wikipedia.org/wiki/The_Third_of_May_1808)*
 
